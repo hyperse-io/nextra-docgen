@@ -5,9 +5,9 @@ export default defineConfig({
   plugins: [],
   resolve: {
     alias: {
-      '@hyperse/wizard-core': getDirname(
+      '@hyperse/nextra-components': getDirname(
         import.meta.url,
-        '../wizard-core/src/index.ts'
+        '../nextra-components/src/index.ts'
       ),
     },
   },
