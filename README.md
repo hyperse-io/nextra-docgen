@@ -1,3 +1,7 @@
-@hyperse/wizard
+@hyperse/nextra-docgen
 
-A powerful and flexible CLI library for building interactive command-line applications.
+A documentation generation tool that extracts JSDoc/TSDoc comments from source code and generates a Nextra-compatible documentation site.
+
+## License
+
+See [LICENSE.md](./LICENSE.md).
