@@ -24,7 +24,7 @@ const buildEnv = createNextConfigEnv(
 
 export default createNextConfig(
   {
-    basePath: '/nextra-mono-starter',
+    basePath: '/nextra-docgen',
     output: buildEnv.NEXT_BUILD_ENV_OUTPUT,
     images: {
       unoptimized:
